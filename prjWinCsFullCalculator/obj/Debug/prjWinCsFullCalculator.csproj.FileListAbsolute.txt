@@ -1,0 +1,9 @@
+C:\Users\andre\source\repos\prjWinCsFullCalculator\prjWinCsFullCalculator\bin\Debug\prjWinCsFullCalculator.exe.config
+C:\Users\andre\source\repos\prjWinCsFullCalculator\prjWinCsFullCalculator\bin\Debug\prjWinCsFullCalculator.exe
+C:\Users\andre\source\repos\prjWinCsFullCalculator\prjWinCsFullCalculator\bin\Debug\prjWinCsFullCalculator.pdb
+C:\Users\andre\source\repos\prjWinCsFullCalculator\prjWinCsFullCalculator\obj\Debug\prjWinCsFullCalculator.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\prjWinCsFullCalculator\prjWinCsFullCalculator\obj\Debug\prjWinCsFullCalculator.Form1.resources
+C:\Users\andre\source\repos\prjWinCsFullCalculator\prjWinCsFullCalculator\obj\Debug\prjWinCsFullCalculator.Properties.Resources.resources
+C:\Users\andre\source\repos\prjWinCsFullCalculator\prjWinCsFullCalculator\obj\Debug\prjWinCsFullCalculator.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\prjWinCsFullCalculator\prjWinCsFullCalculator\obj\Debug\prjWinCsFullCalculator.exe
+C:\Users\andre\source\repos\prjWinCsFullCalculator\prjWinCsFullCalculator\obj\Debug\prjWinCsFullCalculator.pdb
